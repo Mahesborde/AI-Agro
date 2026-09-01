@@ -73,3 +73,24 @@ datasets/
 *.keras
 *.pt
 *.pth
+# Datasets
+plantvillage dataset/
+datasets/
+
+# Large ML models
+models/
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment
+.env
